@@ -1,0 +1,14 @@
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\bin\Debug\net8.0\MatnTahrirQiluvchi.exe
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\bin\Debug\net8.0\MatnTahrirQiluvchi.deps.json
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\bin\Debug\net8.0\MatnTahrirQiluvchi.runtimeconfig.json
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\bin\Debug\net8.0\MatnTahrirQiluvchi.dll
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\bin\Debug\net8.0\MatnTahrirQiluvchi.pdb
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\obj\Debug\net8.0\MatnTahrirQiluvchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\obj\Debug\net8.0\MatnTahrirQiluvchi.AssemblyInfoInputs.cache
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\obj\Debug\net8.0\MatnTahrirQiluvchi.AssemblyInfo.cs
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\obj\Debug\net8.0\MatnTahrirQiluvchi.csproj.CoreCompileInputs.cache
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\obj\Debug\net8.0\MatnTahrirQiluvchi.dll
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\obj\Debug\net8.0\refint\MatnTahrirQiluvchi.dll
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\obj\Debug\net8.0\MatnTahrirQiluvchi.pdb
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\obj\Debug\net8.0\MatnTahrirQiluvchi.genruntimeconfig.cache
+C:\Users\sazod\dev\dotnet\MatnTahrirQiluvchi\obj\Debug\net8.0\ref\MatnTahrirQiluvchi.dll
